@@ -1,4 +1,4 @@
-#  This app was written to be a little showcase for my object-oriented programming and design skills. 
+#  A little showcase for my object-oriented programming and design skills, developed using IntelliJ IDEA, GUI using JavaFX with FXML. 
 inventory_tracker organizes and displays accurate invetory data. Products are made up of various Parts. Some Parts are outsourced and some made in-house. Products and Parts are can be added, modified, or deleted.
 
 Products class is an interface
