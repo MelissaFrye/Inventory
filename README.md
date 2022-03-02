@@ -1,1 +1,1 @@
-# This Inventory Tracker application tracks how many of each product component is in inventory.
+# 	Showcases UI development, exception-handling, object-oriented design principals such as inheritance, capsulation, and abstraction.
